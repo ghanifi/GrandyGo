@@ -92,7 +92,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Call Now!",
             "altText": "",
             "url": "tel:+442036424958",
             "showIcon": false,

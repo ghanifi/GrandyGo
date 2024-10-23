@@ -89,6 +89,17 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button"
+        },
+        {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "tel:+442036424958",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "variant": "logo-left-primary-nav-centered",

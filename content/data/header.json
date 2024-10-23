@@ -93,7 +93,7 @@
         {
             "type": "Button",
             "label": "Call Now!",
-            "altText": "",
+            "altText": "Customer Service Phone",
             "url": "tel:+442036424958",
             "showIcon": false,
             "icon": "arrowRight",
